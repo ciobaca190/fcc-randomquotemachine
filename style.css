@@ -1,0 +1,62 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: #3465A4;
+}
+
+.box {
+	margin: 75px 400px 75px 400px;
+	padding: 15px 15px 15px 15px;
+	background-color: #FFFFFF;
+	color: #3465A4;
+	border: none;
+	border-radius: 10px;
+	text-align: center;
+}
+
+#quote {
+	margin: 50px 0px 50px 0px;
+	font-family: "Raleway", sans-serif;
+	font-size: 40px;
+	font-weight: 400;
+}
+
+.author {
+	margin: 5px 0px 25px 300px;
+}
+
+#tweet-btn {
+	background-color: #3465A4;
+	color: #FFFFFF;
+	border: none;
+	border-radius: 5px;
+	padding: 12px 12px;
+	margin-right: 25px;
+}
+
+#newquote-btn {
+	background-color: #3465A4;
+	color: #FFFFFF;
+	border: none;
+	border-radius: 5px;
+	padding: 12px 12px;
+	margin-left: 35px;
+}
+
+#tweet-btn:hover, #newquote-btn:hover {
+	background-color: #013271;
+}
+
+footer {
+	font-family: "Raleway", sans-serif;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+footer a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
